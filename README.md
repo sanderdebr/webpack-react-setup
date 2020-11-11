@@ -1,6 +1,6 @@
 # webpack-react-setup
 
-My custom setup for a webpack and react project.
+My custom setup for a Webpack and React project.
 
 * Babel
 * React
